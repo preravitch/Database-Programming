@@ -86,8 +86,8 @@ div#div_footer{
 	padding: 1em
 }
 
-div#div_footer:after{
-	content: "Adapted from BlueFreedom theme from wordpress.com";
+div#div_footer:before{
+	content: "Theme adapted from";
 }
 
 ul#menu{

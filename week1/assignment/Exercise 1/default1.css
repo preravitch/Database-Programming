@@ -81,8 +81,9 @@ div#div_footer{
 	padding: 1em;
 }
 
-div#div_footer:after{
-	content: "Theme adapted from http://5digits.org/home";
+div#div_footer:before{
+	content: "Theme adapted from";
+	
 }
 
 ul#menu{
@@ -160,7 +161,7 @@ h2{
 
 .form input[type="text"], .form input[type="password"]{
 	display:block;
-	width:200px;	
+	width:200px;
 }
 .form input[type="submit"]{
 	/*Set width to 150 pixels to have a big submit button*/
