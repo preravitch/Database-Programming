@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS326 Sample</title>
+<link rel="stylesheet" href="default.css">
+</head>
+
+<body>
+
+<div id="wrapper"> 
+	<div id="div_header">
+		CSS326 System 
+	</div>
+	<div id="div_subhead">
+		<ul id="menu">
+			<li><a href="user.php">User Profile</a></li>
+			<li><a href="add_user.php">Add User</a></li>
+			<li><a href="group.php">User Group</a></li>
+			<li><a href="add_group.html">Add User Group</a></li>
+		</ul>		
+	</div>
+	<div id="div_main">
+		<div id="div_left">
+				
+		</div>
+		<div id="div_content" class="form">
+			<!--%%%%% Main block %%%%-->
+			<!--Form -->
+			
+			<form action="user.php" method="post">
+					<h2>User Profile</h2>
+					<!-- use a drop down list to select 'title' from Mr./Mrs./Ms. : label it too-->
+					
+					<label>First name</label>
+					<input type="text" name="firstname">
+						
+					<label>Last name</label>
+					<input type="text" name="lastname">
+
+					<!-- use a radio button to select 'gender' from Male and Female. : label it too-->
+					<div></div>
+					
+					<label>Email</label>
+					<input type="text" name="email">
+					
+					<h2> Account Profile</h2>
+					<label>Username</label>
+					<input type="text" name="username">
+					
+					<label>Password</label>
+					<input type="password" name="passwd">
+					
+					<label>Confirmed password</label>
+					<input type="password" name="cpasswd">
+					
+					<!-- select the 'usergroup' from Instructor, students and TA. : label it too-->
+					
+					
+					<!-- use a checkbox to get the input 'Yes' for 'Disabled' field  : label it too-->
+					
+					
+					<!-- center the submit button-->
+					<div>
+						<input type="submit" value="Submit" >			
+					</div>
+				</form>
+		</div> <!-- end div_content -->
+		
+	</div> <!-- end div_main -->
+	
+	<div id="div_footer">  
+		
+	</div>
+
+</div>
+</body>
+</html>
+
+
