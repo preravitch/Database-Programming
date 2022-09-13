@@ -30,7 +30,13 @@
 			<form action="user.php" method="post">
 					<h2>User Profile</h2>
 					<!-- use a drop down list to select 'title' from Mr./Mrs./Ms. : label it too-->
-					
+					<label>Title</label>
+					<select name="title">
+						<option value="Mr.">Mr.</option>
+						<option value="Mrs.">Mrs.</option>
+						<option value="Ms.">Ms.</option>
+					</select>
+
 					<label>First name</label>
 					<input type="text" name="firstname">
 						
@@ -38,6 +44,9 @@
 					<input type="text" name="lastname">
 
 					<!-- use a radio button to select 'gender' from Male and Female. : label it too-->
+					<label>Gender</label>
+					<input type="radio" name="gender" value="male" checked>Male
+					<input type="radio" name="gender" value="female">Female
 					<div></div>
 					
 					<label>Email</label>
@@ -54,13 +63,19 @@
 					<input type="password" name="cpasswd">
 					
 					<!-- select the 'usergroup' from Instructor, students and TA. : label it too-->
-					
+					<label>User Gruop</label>
+					<select name="usergroup">
+						<option value="Instructor">Instructor</option>
+						<option value="Student">Student</option>
+						<option value="TA">TA</option>
+					</select>
 					
 					<!-- use a checkbox to get the input 'Yes' for 'Disabled' field  : label it too-->
-					
+					<label>Disabled</label>
+					<input type="checkbox" name="disabled" value="Yes">
 					
 					<!-- center the submit button-->
-					<div>
+					<div class="center">
 						<input type="submit" value="Submit" >			
 					</div>
 				</form>

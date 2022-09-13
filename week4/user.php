@@ -44,13 +44,21 @@
                     <th>Del</th>
                 </tr>
                  <tr>
-                    <td>Data1: add title</td> 
-                    <td>Data2: add name</td>
-                    <td>Data3: add email</td>
-                    <td>Data4: add user group</td>
-                    <td>output: Yes/No </td>
-                    <td>add images/Modify.png width is "24" height is "24"</td>
-                    <td>add images/Delete.png width is "24" height is "24</td>
+                    <td><?php echo $_POST["title"]; ?></td> 
+                    <td><?php echo $_POST["firstname"]; ?></td>
+                    <td><?php echo $_POST["email"]; ?></td>
+                    <td><?php echo $_POST["usergroup"]; ?></td>
+                    <td>
+                        <?php
+                        if(isset($_POST["disabled"])){
+                            echo "Yes";
+                        }else {
+                            echo "No";
+                        }
+                        ?>
+                    </td>
+                    <td><img src="images/Modify.png" width= "24" height= "24"></td>
+                    <td><img src="images/Delete.png" width= "24" height= "24"></td>
                 </tr>      
             </table>
 		</div> <!-- end div_content -->
