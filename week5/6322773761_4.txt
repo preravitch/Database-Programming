@@ -1,0 +1,3 @@
+SELECT s.Student_ID, s.First_name, r.Grade
+FROM Student s, Register r
+WHERE s.Student_ID = r.Student_ID AND r.Grade = 'A';
