@@ -19,3 +19,5 @@ Learning to use get and post method to get user data after submission the form
 ## Week 3
 File Handling in PHP and HTML Forms
 
+## Week 10
+Learning to creating database using python to push and update data into mysql
