@@ -1,0 +1,112 @@
+.checking-email-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.checking-email-navlink {
+  display: contents;
+}
+.checking-email-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  text-decoration: none;
+}
+.checking-email-container1 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #2e2e2e;
+  border-width: 5px;
+  background-color: #2e2e2e;
+}
+.checking-email-container2 {
+  display: flex;
+  align-items: flex-start;
+}
+.checking-email-image1 {
+  width: 100px;
+  object-fit: cover;
+  margin-left: 5%;
+}
+.checking-email-container3 {
+  top: 0px;
+  right: 25%;
+  width: 6%;
+  bottom: 0px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.checking-email-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.checking-email-container4 {
+  top: 0px;
+  right: 14%;
+  width: 9%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.checking-email-navlink1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.checking-email-container5 {
+  top: 0px;
+  right: 3%;
+  width: 8%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.checking-email-link1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.checking-email-container6 {
+  top: 0px;
+  right: 11%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.checking-email-navlink2 {
+  display: contents;
+}
+.checking-email-image2 {
+  width: 30px;
+  align-self: center;
+  object-fit: cover;
+  text-decoration: none;
+}

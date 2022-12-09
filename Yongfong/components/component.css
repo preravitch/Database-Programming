@@ -1,0 +1,9 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-text {
+  width: 155px;
+  height: 62px;
+  text-align: center;
+}

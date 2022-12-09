@@ -1,0 +1,150 @@
+.membership-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://media.discordapp.net/attachments/919631518907900015/1044193973415194647/HOME_1.png?width=960&height=540');
+}
+.membership-container1 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #2e2e2e;
+  border-width: 5px;
+  background-color: #2e2e2e;
+}
+.membership-container2 {
+  display: flex;
+  align-items: flex-start;
+}
+.membership-image {
+  width: 100px;
+  object-fit: cover;
+  margin-left: 5%;
+}
+.membership-container3 {
+  top: 0px;
+  right: 25%;
+  width: 6%;
+  bottom: 0px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.membership-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.membership-container4 {
+  top: 0px;
+  right: 14%;
+  width: 9%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.membership-navlink {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.membership-container5 {
+  top: 0px;
+  right: 3%;
+  width: 8%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.membership-link1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.membership-container6 {
+  top: 0px;
+  right: 11%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.membership-navlink1 {
+  display: contents;
+}
+.membership-image1 {
+  width: 30px;
+  align-self: center;
+  object-fit: cover;
+  text-decoration: none;
+}
+.membership-image2 {
+  top: 25%;
+  left: 10%;
+  width: 30%;
+  height: 40%;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.membership-name {
+  top: 20%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.membership-regdate {
+  top: 30%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.membership-expdate {
+  top: 40%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.membership-navlink2 {
+  display: contents;
+}
+.membership-image3 {
+  top: 60%;
+  left: 60%;
+  width: 20%;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}

@@ -1,0 +1,184 @@
+.user-information-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://media.discordapp.net/attachments/919631518907900015/1044193973415194647/HOME_1.png?width=960&height=540');
+}
+.user-information-image {
+  top: 178px;
+  left: 130px;
+  width: 529px;
+  height: 396px;
+  position: absolute;
+  object-fit: cover;
+}
+.user-information-navlink {
+  top: 372px;
+  left: 1149px;
+  position: absolute;
+  text-decoration: none;
+}
+.user-information-container1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+}
+.user-information-text {
+  top: 108px;
+  left: 798px;
+  width: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+.user-information-firstname {
+  top: 280px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-passsport-i-d {
+  top: 220px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-lastname {
+  top: 340px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-gender {
+  top: 400px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-age {
+  top: 460px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-nationality {
+  top: 520px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-container2 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #2e2e2e;
+  border-width: 5px;
+  background-color: #2e2e2e;
+}
+.user-information-container3 {
+  display: flex;
+  align-items: flex-start;
+}
+.user-information-image1 {
+  width: 100px;
+  object-fit: cover;
+  margin-left: 5%;
+}
+.user-information-container4 {
+  top: 0px;
+  right: 25%;
+  width: 6%;
+  bottom: 0px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.user-information-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.user-information-container5 {
+  top: 0px;
+  right: 14%;
+  width: 9%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.user-information-navlink1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.user-information-container6 {
+  top: 0px;
+  right: 3%;
+  width: 8%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.user-information-link1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.user-information-container7 {
+  top: 0px;
+  right: 11%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.user-information-navlink2 {
+  display: contents;
+}
+.user-information-image2 {
+  width: 30px;
+  align-self: center;
+  object-fit: cover;
+  text-decoration: none;
+}
+.user-information-address {
+  top: 640px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-postcode {
+  top: 700px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-email {
+  top: 580px;
+  left: 800px;
+  position: absolute;
+}
+.user-information-button {
+  top: 310px;
+  left: 1149px;
+  position: absolute;
+}

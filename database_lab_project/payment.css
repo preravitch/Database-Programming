@@ -1,0 +1,205 @@
+.payment-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://media.discordapp.net/attachments/919631518907900015/1044193973415194647/HOME_1.png?width=960&height=540');
+}
+.payment-container1 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #2e2e2e;
+  border-width: 5px;
+  background-color: #2e2e2e;
+}
+.payment-container2 {
+  display: flex;
+  align-items: flex-start;
+}
+.payment-image {
+  width: 100px;
+  object-fit: cover;
+  margin-left: 5%;
+}
+.payment-container3 {
+  top: 0px;
+  right: 25%;
+  width: 6%;
+  bottom: 0px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.payment-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.payment-container4 {
+  top: 0px;
+  right: 14%;
+  width: 9%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.payment-navlink {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.payment-container5 {
+  top: 0px;
+  right: 3%;
+  width: 8%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.payment-link1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.payment-container6 {
+  top: 0px;
+  right: 11%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.payment-navlink1 {
+  display: contents;
+}
+.payment-image1 {
+  width: 30px;
+  align-self: center;
+  object-fit: cover;
+  text-decoration: none;
+}
+.payment-container7 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.payment-container8 {
+  width: 100%;
+  height: 735px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.payment-transaction-i-d {
+  top: 20%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-image2 {
+  top: 20%;
+  left: 15%;
+  width: 25%;
+  position: absolute;
+  align-self: flex-start;
+  object-fit: cover;
+}
+.payment-image3 {
+  top: 30%;
+  left: 15%;
+  width: 25%;
+  position: absolute;
+  align-self: flex-start;
+  object-fit: cover;
+}
+.payment-bookingdate {
+  top: 30%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-depdate {
+  top: 40%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-flightno {
+  top: 50%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-charges {
+  top: 60%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-discount {
+  top: 70%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-total {
+  top: 80%;
+  left: 60%;
+  width: 20%;
+  height: 5%;
+  position: absolute;
+  align-self: flex-start;
+}
+.payment-navlink2 {
+  display: contents;
+}
+.payment-image4 {
+  left: 60%;
+  width: 25%;
+  bottom: 0px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}

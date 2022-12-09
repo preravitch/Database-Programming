@@ -1,0 +1,24 @@
+.container-container {
+  width: 100%;
+  height: 110px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container-image {
+  width: 100px;
+  object-fit: cover;
+}
+.container-link {
+  display: contents;
+}
+.container-text {
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .container-container {
+    width: 799px;
+    height: 151px;
+  }
+}

@@ -1,0 +1,108 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(garfield.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.user
+{
+    width: 35%;
+    height: 35%;
+}
+
+.sign-up-form
+{
+    width: 240px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+    padding: 20px;
+    margin: 3% auto 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.subhead
+{
+    color: 	#1c8adb;
+}
+
+.subhead a 
+{
+    font-weight: bold;
+    color:	#1c8adb;
+}
+
+.sign-up-form h1{
+    color: 	#1c8adb;
+}
+
+.input 
+{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+button 
+{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.sign-up-btn
+{
+    background-color: #1c8adb;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.fb-btn
+{
+    background-color: #3b5998;
+}
+
+.g-btn
+{
+    background-color: #DB4437;
+}
+
+hr
+{
+    margin-top: 20px;
+    width: 75%;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.or 
+{   
+    background: #fff;
+    width: 30px;
+    margin: -22px auto 10px;
+}

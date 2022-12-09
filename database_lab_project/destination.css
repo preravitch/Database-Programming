@@ -1,0 +1,148 @@
+.destination-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  font-size: 30;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://media.discordapp.net/attachments/919631518907900015/1044193973415194647/HOME_1.png?width=960&height=540');
+}
+.destination-select {
+  top: 397px;
+  left: 180px;
+  width: var(--dl-size-size-xxlarge);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.destination-text {
+  top: 231px;
+  left: 187px;
+  position: absolute;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+}
+.destination-select1 {
+  top: 398px;
+  left: 526px;
+  width: var(--dl-size-size-xxlarge);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.destination-select2 {
+  top: 394px;
+  left: 871px;
+  width: 400px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+  padding-right: 5px;
+}
+.destination-navlink {
+  top: 542px;
+  left: 1063px;
+  width: 214px;
+  height: 53px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.destination-container1 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #2e2e2e;
+  border-width: 5px;
+  background-color: #2e2e2e;
+}
+.destination-container2 {
+  display: flex;
+  align-items: flex-start;
+}
+.destination-image {
+  width: 100px;
+  object-fit: cover;
+  margin-left: 5%;
+}
+.destination-container3 {
+  top: 0px;
+  right: 25%;
+  width: 6%;
+  bottom: 0px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.destination-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.destination-container4 {
+  top: 0px;
+  right: 14%;
+  width: 9%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.destination-navlink1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.destination-container5 {
+  top: 0px;
+  right: 3%;
+  width: 8%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.destination-link1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.destination-container6 {
+  top: 0px;
+  right: 11%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.destination-navlink2 {
+  display: contents;
+}
+.destination-image1 {
+  width: 30px;
+  align-self: center;
+  object-fit: cover;
+  text-decoration: none;
+}

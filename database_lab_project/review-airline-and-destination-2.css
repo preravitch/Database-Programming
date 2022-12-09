@@ -1,0 +1,289 @@
+.review-airline-and-destination2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://media.discordapp.net/attachments/919631518907900015/1044193973415194647/HOME_1.png?width=960&height=540');
+}
+.review-airline-and-destination2-container1 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #2e2e2e;
+  border-width: 5px;
+  background-color: #2e2e2e;
+}
+.review-airline-and-destination2-container2 {
+  display: flex;
+  align-items: flex-start;
+}
+.review-airline-and-destination2-image {
+  width: 100px;
+  object-fit: cover;
+  margin-left: 5%;
+}
+.review-airline-and-destination2-container3 {
+  top: 0px;
+  right: 25%;
+  width: 6%;
+  bottom: 0px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.review-airline-and-destination2-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.review-airline-and-destination2-container4 {
+  top: 0px;
+  right: 14%;
+  width: 9%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.review-airline-and-destination2-navlink {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.review-airline-and-destination2-container5 {
+  top: 0px;
+  right: 3%;
+  width: 8%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.review-airline-and-destination2-link1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  align-self: center;
+  text-decoration: none;
+}
+.review-airline-and-destination2-container6 {
+  top: 0px;
+  right: 11%;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.review-airline-and-destination2-navlink1 {
+  display: contents;
+}
+.review-airline-and-destination2-image1 {
+  width: 30px;
+  align-self: center;
+  object-fit: cover;
+  text-decoration: none;
+}
+.review-airline-and-destination2-text02 {
+  top: 314px;
+  left: 1264px;
+  position: absolute;
+  font-size: 30px;
+}
+.review-airline-and-destination2-text03 {
+  top: 148px;
+  left: 984px;
+  position: absolute;
+  font-size: 32px;
+}
+.review-airline-and-destination2-text04 {
+  top: 318px;
+  left: 976px;
+  position: absolute;
+  font-size: 32px;
+}
+.review-airline-and-destination2-navlink2 {
+  top: 391px;
+  left: 1021px;
+  width: var(--dl-size-size-xxlarge);
+  position: absolute;
+  font-size: 30px;
+  text-decoration: none;
+  background-color: #f70202;
+}
+.review-airline-and-destination2-text05 {
+  top: 252px;
+  left: 1276px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text06 {
+  top: 259px;
+  left: 982px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text07 {
+  top: 211px;
+  left: 982px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text08 {
+  top: 148px;
+  left: 984px;
+  position: absolute;
+  font-size: 32px;
+}
+.review-airline-and-destination2-navlink3 {
+  top: 154px;
+  left: 504px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: #f50303;
+}
+.review-airline-and-destination2-text09 {
+  top: 450px;
+  left: 428px;
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+.review-airline-and-destination2-text10 {
+  top: 591px;
+  left: 388px;
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+}
+.review-airline-and-destination2-text11 {
+  top: 364px;
+  left: 388px;
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+}
+.review-airline-and-destination2-text12 {
+  top: 602px;
+  left: 587px;
+  position: absolute;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+}
+.review-airline-and-destination2-text13 {
+  top: 566px;
+  left: 589px;
+  position: absolute;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+}
+.review-airline-and-destination2-text18 {
+  top: 354px;
+  left: 589px;
+  position: absolute;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+}
+.review-airline-and-destination2-text19 {
+  top: 521px;
+  left: 588px;
+  position: absolute;
+  font-size: 25px;
+}
+.review-airline-and-destination2-text20 {
+  top: 315px;
+  left: 591px;
+  position: absolute;
+  font-size: 25px;
+}
+.review-airline-and-destination2-text21 {
+  top: 554px;
+  left: 392px;
+  position: absolute;
+  font-size: 25px;
+}
+.review-airline-and-destination2-text22 {
+  top: 319px;
+  left: 388px;
+  position: absolute;
+  font-size: 25px;
+}
+.review-airline-and-destination2-text23 {
+  top: 475px;
+  left: 117px;
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+.review-airline-and-destination2-text26 {
+  top: 440px;
+  left: 117px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text27 {
+  top: 216px;
+  left: 319px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text28 {
+  top: 207px;
+  left: 1275px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text29 {
+  top: 216px;
+  left: 385px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text30 {
+  top: 216px;
+  left: 126px;
+  position: absolute;
+  font-size: 20px;
+}
+.review-airline-and-destination2-text31 {
+  top: 153px;
+  left: 115px;
+  position: absolute;
+  font-size: 32px;
+}
+.review-airline-and-destination2-image2 {
+  top: 328px;
+  left: 140px;
+  width: 89px;
+  height: 86px;
+  position: absolute;
+  object-fit: cover;
+}
